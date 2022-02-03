@@ -1,0 +1,157 @@
+.image{
+    width: 100px;
+    border-radius: 50px;
+    height: 100px;
+}
+
+.image2{
+    width: 150px;
+    border-radius:75px;
+    height: 150px;
+}
+
+.image3{
+    width: 200px;
+    border-radius:100px;
+    height: 200px;
+    display: block;
+    margin-top: 20px;
+    margin-left: 615px;
+    margin-right: 500px;
+}
+
+.fakeimage{
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin-left: 70px;
+    margin-right: 50px;
+}
+.menuItem{
+    margin-left: 130px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color:black;
+    text-decoration:none;
+}
+
+.menuItem2{
+    margin-left: 100px;
+    margin-top: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color:black;
+    text-decoration:none;
+}
+
+.current{
+    font-weight: bold;
+}
+
+.table{
+    width: 1300px;
+    margin-left: 100px; 
+    margin-right: 100px ;
+}
+
+
+.table2{
+    width: 750px;
+    margin-left: 650px; 
+    margin-right: 120px;
+}
+
+.table3{
+    width: 800px;
+    margin-left: 90px; 
+    margin-right: 500px ;
+    position: relative;bottom: 500px;
+}
+
+.table4{
+    width: 800px;
+    margin-left: 240px; 
+    margin-right:300px ;
+    position: relative;bottom: 545px;
+}
+
+.table5{
+    width: 1300px;
+    margin-left: 70px; 
+    margin-right: 70px ;
+}
+
+
+.td{
+    padding-left: 150px;
+    padding-right: 150px ;
+}
+
+.td2{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+.text1{
+    margin-left: 350px;
+    margin-right: 400px;
+    display: block;
+    padding-top: 70px;
+    font-family:"Arial", sans-serif;
+    font-size: 15px;
+}
+
+.posterImage {
+    width: 350px;
+    height: 520px;
+    margin-left: 130px;
+}
+
+.Page4images{
+    width: 180px;
+    height: 215px;
+    float: right;
+    padding-top: 50px;
+}
+
+.brandingimg{
+    width: 450px;
+    height: 250px;
+    float: right;
+    padding-top: 15px;
+}
+
+
+form{
+    margin-top: 50px;
+    transition: all 4s ease-in-out;
+}
+
+.formcontrol{
+    width: 100%;
+    padding: 20px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-bottom: 25px;
+    border: solid 2px;
+    font-family:"Arial", sans-serif;
+    font-size: 15px;
+    outline: none;
+    transition: all 0.5s ease;
+}
+
+.send{
+    width: 150px;
+    background: #ffff;
+    height: 50px;
+    text-align:center ;
+    line-height: 50px;
+    cursor: pointer; 
+    border-radius: 5px;
+    border: solid 2px;
+    font-family:"Arial", sans-serif;
+    font-size: 15px;
+    margin-left: 1140px;
+}
+
